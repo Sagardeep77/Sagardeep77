@@ -13,8 +13,10 @@
 - 🌟 Frontend Developer with 5+ years of experience building scalable web applications
 - ⚡ Tech Stack: **React.js**, **Next.js**, **JavaScript**, **TypeScript**, **Node.js**, **GraphQL**
 - 💬 Ask me about **Web Architecture**, **Performance Optimization**, and **Modern UI Frameworks**
-- 📫 Reach me on [LinkedIn](your-linkedin-url)
-- 📄 Check out my [Resume](your-resume-link)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sagar-deep-kushwaha/)
+- 📄 Check out my [Resume](https://sagar-deep-kushwaha-portfolio.vercel.app/Sagar_Deep_Kushwaha_Resume_.pdf)
+- 📄 Check out my [Profile](https://sagar-deep-kushwaha-portfolio.vercel.app/)
+- 
 
 ---
 
@@ -34,13 +36,13 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="your-linkedin-url" target="_blank">
+  <a href="https://www.linkedin.com/in/sagar-deep-kushwaha/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="your-leetcode-url" target="_blank">
+  <a href="https://leetcode.com/proNOOB577/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
   </a>
-  <a href="your-hackerrank-url" target="_blank">
+  <a href="https://sagar-deep-kushwaha-portfolio.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
   </a>
 </p>
